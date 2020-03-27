@@ -1,3 +1,10 @@
+Git merge conflict exercise
+===========================
+
+This is an artificial repository for practicing solving merge conflicts. It is
+based on real history from https://github.com/jan-warchol/limestone-colors.
+
+
 Minimalistic syntax highlighting
 --------------------------------
 
