@@ -15,3 +15,17 @@ shades_lightness = {
     "fg_2":  1 + 1/4,
     "fg_3":  1 + 1/3,
 }
+
+# color variants with modified lightness and saturation
+accent_variants = {
+    "dim":        (3/4,   1),
+    "br":         (1+1/6, 1),
+
+    "soft":       (1,     0.618),
+    "soft_dim":   (3/4,   0.618),
+    "soft_br":    (1+1/6, 0.618),
+
+    "softer":     (1.062, 0.382),
+    "softer_dim": (3/4,   0.382),
+    "softer_br":  (1+1/6, 0.382),
+}
